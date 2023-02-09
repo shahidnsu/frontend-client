@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+/* body {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    font-family: sans-serif;
+
+}
+*/
